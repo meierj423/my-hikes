@@ -6,6 +6,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-image: url("https://images.squarespace-cdn.com/content/v1/53bc5871e4b095b6a42949b4/1602605460618-C9N9FVEBMI2GQ17526TQ/ke17ZwdGBToddI8pDm48kGS5CRqziMG0ax2VlBRel6l7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfgxXaMHY4ETLd2aWlJJDNM2z9ePXnV4ATLSZR85bNoLP7cJNZlDXbgJNE9ef52e8w/Untitled+design+%281%29.png?format=2500w");
+  font-family: "Roboto Slab", serif;
 }
 
 code {
