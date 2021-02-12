@@ -1,0 +1,8 @@
+.jumbotron {
+  margin-top: 2rem;
+  background: rgba(103, 165, 197, 0.5);
+}
+
+.jumbotron-text {
+  text-align: center;
+}
